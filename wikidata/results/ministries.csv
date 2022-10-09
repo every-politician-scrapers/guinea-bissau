@@ -1,4 +1,4 @@
 item,itemLabel,minister,ministerLabel,began,ended
-Q55648347,Ministry of Justice (Guinea-Bissau),,,,
-Q105846519,Ministry of Public Health,,,,
-Q55079988,Ministério das Finanças,,,,
+Q55079988,Ministry of Finance,Q114553879,Minister of Finance,,
+Q55648347,Ministry of Justice (Guinea-Bissau),Q114553837,Minister of Justice of Guinea-Bissau,,
+Q105846519,Ministry of Public Health,Q112061405,Minister of Health of Guinea-Bissau,,
