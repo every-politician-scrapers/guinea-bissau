@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Guinea-Bissau",
+        "id": "Q1007"
+    },
+    "cabinet": {
+        "start":  "2022-06-21",
+        "end":    "2022-06-30",
+        "parent": "Q52898227"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "268"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "Guinea-Bissau politician"
+    }
+}

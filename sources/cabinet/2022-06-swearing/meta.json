@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Guinea-Bissau",
+        "id": "Q1007"
+    },
+    "cabinet": {
+        "start": "2022-06-09",
+        "end":   "2022-06-10",
+        "parent": "Q52898227"
+    },
+    "reference": {
+        "P854":   "https://africacitizenradio.com/guinea-bissau-new-government-members-took-oath-in-office/",
+        "P1476": {
+            "text": "Guinea-Bissau: New Government Members Took Oath In Office",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Guinea-Bissau"
+    }
+}
