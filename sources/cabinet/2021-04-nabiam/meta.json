@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Guinea-Bissau",
+        "id": "Q1007"
+    },
+    "cabinet": {
+        "start": "2021-04-26",
+        "end":   "2021-04-30",
+        "parent": "Q52898227"
+    },
+    "reference": {
+        "P854":   "https://www.macaubusiness.com/guinea-bissau-reshufflled-government-has-20-ministers-11-secretaries-of-state/",
+        "P1476": {
+            "text": "Reshufflled government has 20 ministers, 11 secretaries of state",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Guinea-Bissau"
+    }
+}
