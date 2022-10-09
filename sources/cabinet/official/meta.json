@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Guinea-Bissau",
+        "id": "Q1007"
+    },
+    "cabinet": {
+        "start": "2021-01-10",
+        "end":   "2021-01-11",
+        "parent": "Q52898227"
+    },
+    "reference": {
+        "P854":   "https://www.gov.gw/governo",
+        "P1476": {
+            "text": "Governo da Guiné-Bissau",
+            "language": "pt"
+        }
+    },
+    "lang": "pt",
+    "person_description": {
+        "en": "politician in Guinea-Bissau"
+    }
+}
