@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Guinea-Bissau",
+        "id": "Q1007"
+    },
+    "cabinet": {
+        "start": "2020-03-02",
+        "end":   "2020-03-05",
+        "parent": "Q52898227"
+    },
+    "reference": {
+        "P854":   "https://www.apanews.net/en/news/gbissaus-embalo-appoints-32-member-government",
+        "P1476": {
+            "text": "Embalo appoints 32-member government",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Guinea-Bissau"
+    }
+}
