@@ -1,0 +1,22 @@
+{
+    "jurisdiction": {
+        "name": "Guinea-Bissau",
+        "id": "Q1007"
+    },
+    "cabinet": {
+        "start": "2019-07-05",
+        "end":   "2019-07-08",
+        "parent": "Q52898227"
+    },
+    "reference": {
+        "P854":   "https://www.africanews.com/2019/07/05/guinea-bissau-names-gender-par-cabinet-after-ethiopia-south-africa//",
+        "P1476": {
+            "text": "Guinea-Bissau names gender-par cabinet after Ethiopia, South Africa",
+            "language": "en"
+        }
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "politician in Guinea-Bissau"
+    }
+}
