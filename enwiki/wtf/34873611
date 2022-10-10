@@ -1,0 +1,85 @@
+{
+  "title": "Fernando Gomes (politician)",
+  "pageID": 34873611,
+  "categories": [
+    "Government ministers of Guinea-Bissau",
+    "Interior ministers of Guinea-Bissau",
+    "Living people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fernando Gomes is a Bissau-Guinean politician who was the former interior minister of Guinea-Bissau.",
+              "links": [
+                {
+                  "text": "interior minister",
+                  "type": "internal",
+                  "page": "interior minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Guinea-Bissau"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fernando Gomes"
+                ]
+              }
+            },
+            {
+              "text": "He was replaced after the 2012 Guinea-Bissau coup d'état.",
+              "links": [
+                {
+                  "text": "2012 Guinea-Bissau coup d'état",
+                  "type": "internal",
+                  "page": "2012 Guinea-Bissau coup d'état"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Fernando_Gomes_Bissau_(cropped).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Fernando_Gomes_Bissau_(cropped).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Fernando_Gomes_Bissau_(cropped).jpg",
+          "caption": "Gomes in 2020",
+          "links": []
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.jornaldigital.com/noticias.php?noticia=29313",
+          "title": "Guiné-Bissau: António Indjai assume ter ordenado militares a intervirem contra PIR",
+          "date": "2012-02-22",
+          "accessdate": "2012-02-24",
+          "work": "Portuguese News Network",
+          "publisher": "Jornal Digital",
+          "language": "Portuguese",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "guineabissau-politician-stub"
+        }
+      ]
+    }
+  ]
+}

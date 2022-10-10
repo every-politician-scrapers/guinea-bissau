@@ -1,0 +1,109 @@
+{
+  "title": "Botche Candé",
+  "pageID": 65115120,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Bissau-Guinean politicians",
+    "Interior ministers of Guinea-Bissau",
+    "Politics of Guinea-Bissau"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Botche Candé (born 18 July 1955) is a Guinean Bissauan politician.",
+              "formatting": {
+                "bold": [
+                  "Botche Candé"
+                ]
+              }
+            },
+            {
+              "text": "Since 2020, he has been Minister of Interior in the government of prime minister Nuno Nabiam of Guinea Bissau.",
+              "links": [
+                {
+                  "text": "Nuno Nabiam",
+                  "type": "internal",
+                  "page": "Nuno Gomes Nabiam"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "September 2020",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Bissau-Guinean politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "office": {
+            "text": "Minister of Interior"
+          },
+          "predecessor": {
+            "text": "Juliano Fernandes",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Juliano Fernandes"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "2020",
+            "number": 2020
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Guinea-Bissau",
+          "url": "https://www.bbc.co.uk/news/topics/cvenzmgygd5t/guinea-bissau",
+          "access-date": "27 August 2020",
+          "website": "BBC News",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "G/Bissau's Embalo appoints 32-member government",
+          "url": "https://apanews.net/en/news/gbissaus-embalo-appoints-32-member-government",
+          "access-date": "27 August 2020",
+          "website": "apanews.net",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Guiné-Bissau: primeiro-ministro e “boa parte” do Governo infetados",
+          "url": "https://expresso.pt/internacional/2020-04-29-Guine-Bissau-primeiro-ministro-e-boa-parte-do-Governo-infetados",
+          "access-date": "27 August 2020",
+          "website": "Jornal Expresso",
+          "language": "pt-PT",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}
