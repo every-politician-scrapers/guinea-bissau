@@ -17,22 +17,19 @@
         {
           "sentences": [
             {
-              "text": "Soares Sambú (c.",
-              "formatting": {
-                "bold": [
-                  "Soares Sambú"
-                ]
-              }
-            },
-            {
-              "text": "1975) is a Bissau-Guinean engineer and politician who was deputy of the National People's Assembly and minister of the Presidency of the Council of Ministers, an agency that accumulates the functions of deputy head of government.",
+              "text": "Soares Sambú (c. 1975) is a Bissau-Guinean engineer and politician who was deputy of the National People's Assembly and minister of the Presidency of the Council of Ministers, an agency that accumulates the functions of deputy head of government.",
               "links": [
                 {
                   "text": "Bissau-Guinean",
                   "type": "internal",
                   "page": "Guinea-Bissau"
                 }
-              ]
+              ],
+              "formatting": {
+                "bold": [
+                  "Soares Sambú"
+                ]
+              }
             }
           ]
         }
